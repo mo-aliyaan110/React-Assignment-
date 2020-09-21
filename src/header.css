@@ -1,0 +1,18 @@
+.inline{
+    display: inline;
+}
+.margin-left{
+    margin-left: 60px;
+}
+.margin-right{
+    margin-right: 60px;
+}
+.margin-right2{
+    margin-right: 15px;
+}
+.navbar-color{
+    background-color: #ce0505;
+    color: white;
+    font-size: 16px;
+    text-align: left;
+}
